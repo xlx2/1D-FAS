@@ -1,0 +1,4 @@
+cvxpy==1.6.5
+mosek==11.0.16
+matplotlib==3.10.1
+tqdm==4.67.1
